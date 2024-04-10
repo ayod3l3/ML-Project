@@ -1,3 +1,4 @@
 # Used this to store files that you want Git to ignore
 
 .ipynb_checkpoints/
+data
